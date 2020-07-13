@@ -27,6 +27,7 @@ console.log(div)
 divChild1.innerHTML = "<img src='assets/images/place for photo.jpg'>"
 divChild2.innerHTML = 'Распространенные заблуждения об уходе за кошкой'
 divChild3.innerHTML = 'Некоторых животных природа призывает делать очень странные вещи: есть колбасные шкурки, нитки из покрывала, варенье и прочие, часто…'
+divChild6.innerHTML = "<img src='assets/images/clock-icon.svg'>"
 divChild7.innerHTML = '9 февраля 2018'
 a.innerHTML = 'Читать полностью >'
 
